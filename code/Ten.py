@@ -1,6 +1,6 @@
 n=int(input())
-count=0
+v=0
 while(n>0):
-    count=count+1
+    v=v+1
     n=n//10
-print(count)
+print(v)
