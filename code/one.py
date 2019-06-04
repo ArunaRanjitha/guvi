@@ -1,1 +1,9 @@
-print("hello")
+n=eval(input())
+if(n>0):
+    print("Positive")
+elif(n==0):
+    print("zero")
+elif(n<0):
+    print("Negative")
+else:
+   print("error")
