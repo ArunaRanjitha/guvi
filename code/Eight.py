@@ -1,0 +1,9 @@
+w=int(input())
+i=0
+if(w>0):
+    while(w>0):
+        i=i+w
+        w=w-1
+    print(i)
+else:
+    print("error")
