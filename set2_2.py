@@ -6,6 +6,6 @@ while(a>0):
   rev=rev*10+dig
   a=a//10
 if(temp==rev):
-  print("Yes")
+  print("yes")
 else:
-  print("No")
+  print("no")
