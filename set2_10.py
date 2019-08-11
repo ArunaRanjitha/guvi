@@ -1,4 +1,4 @@
-a=int(input())
+x=int(input())
 for i in range(1,6):
-    b=a*i
+    b=x*i
     print(b,end=" ")
